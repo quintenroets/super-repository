@@ -1,4 +1,4 @@
-from python_package_template import main
+from super_repository import main
 
 
 def test_main() -> None:
